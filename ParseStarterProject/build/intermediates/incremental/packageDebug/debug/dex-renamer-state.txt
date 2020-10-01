@@ -1,0 +1,7 @@
+#Thu Oct 01 22:00:49 BST 2020
+base.0=/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/0/classes2.dex
+base.1=/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/0
+file.0=/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/0/classes.dex
