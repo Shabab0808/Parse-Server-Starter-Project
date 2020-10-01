@@ -1,8 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-contextmanager:9.4.0@aar">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00cebeeb8e956d801ed9294208ce86b/play-services-contextmanager-9.4.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00cebeeb8e956d801ed9294208ce86b/play-services-contextmanager-9.4.0/res" />
+=======
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/5d1fb0b128c97cbac0ad9c23675edc23/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/5d1fb0b128c97cbac0ad9c23675edc23/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/5d1fb0b128c97cbac0ad9c23675edc23/res" />
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     </CLASSES>
     <JAVADOC />
     <SOURCES />

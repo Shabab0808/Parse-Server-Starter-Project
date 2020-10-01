@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/d40e04006fdd287e810cb649309e103a/play-services-wallet-9.4.0/res/values-en-rSG/values.xml",
+=======
+            "outputFile": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/4cfdda065f8543be3580be32d723bc8b/res/values-en-rSG/values.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

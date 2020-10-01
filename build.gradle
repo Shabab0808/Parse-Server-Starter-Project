@@ -1,29 +1,49 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {
+<<<<<<< HEAD
         mavenCentral()
+=======
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
         jcenter()
         google()
     }
     dependencies {
+<<<<<<< HEAD
         classpath 'com.android.tools.build:gradle:3.6.3'
+=======
+        classpath 'com.android.tools.build:gradle:3.0.0'
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     }
 }
 
 allprojects {
     repositories {
+<<<<<<< HEAD
         maven {
             url 'https://maven.google.com'
         }
         mavenCentral()
         jcenter()
+=======
+        mavenCentral()
+        google()
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     }
 }
 
 ext {
+<<<<<<< HEAD
     compileSdkVersion = 22
     buildToolsVersion = "23.0.1"
 
     minSdkVersion = 9
     targetSdkVersion = 23
+=======
+    compileSdkVersion = 26
+    buildToolsVersion = "23.0.1"
+
+    minSdkVersion = 9
+    targetSdkVersion = 26
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
 }

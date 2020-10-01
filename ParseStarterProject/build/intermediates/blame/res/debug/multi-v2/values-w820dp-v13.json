@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
                     "source": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+=======
+            "outputFile": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "12",
                         "startColumns": "4",

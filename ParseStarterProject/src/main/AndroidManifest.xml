@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (c) 2015-present, Parse, LLC.
   ~ All rights reserved.
@@ -6,13 +7,19 @@
   ~ LICENSE file in the root directory of this source tree. An additional grant
   ~ of patent rights can be found in the PATENTS file in the same directory.
 -->
+=======
+<?xml version="1.0" encoding="utf-8"?>
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.parse.starter">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
@@ -21,7 +28,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
 
+=======
+        <activity android:name=".UserList"></activity>
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name">
@@ -31,8 +42,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     </application>
 
 </manifest>

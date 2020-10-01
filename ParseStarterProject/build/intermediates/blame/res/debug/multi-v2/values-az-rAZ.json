@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
             "map": [
                 {
@@ -22,6 +23,12 @@
                 },
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/6d63fb055c53f9b8465a3aa8c01b8727/mediarouter-v7-23.0.0/res/values-az-rAZ/values-az-rAZ.xml",
+=======
+            "outputFile": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/2e41f1b731ddd54821270daed78d32da/res/values-az-rAZ/values-az-rAZ.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -36,6 +43,26 @@
                         "endColumns": "112,111,97,108,121,100,95,124,104,85,94",
                         "endOffsets": "1989,2101,2199,2308,2430,2531,2627,2752,2857,2943,3038"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/8322dc4bee9e7c73f4e8d8d0d974f38f/res/values-az-rAZ/values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,261,384,483,593,681,788,902,983,1062,1147,1254,1361,1461,1570,1674,1784,1881",
+                        "endColumns": "97,107,122,98,109,87,106,113,80,78,84,106,106,99,108,103,109,96,100",
+                        "endOffsets": "148,256,379,478,588,676,783,897,978,1057,1142,1249,1356,1456,1565,1669,1779,1876,1977"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,261,384,483,593,681,788,902,983,1062,1147,1254,1361,1461,1570,1674,1784,3043",
+                        "endColumns": "97,107,122,98,109,87,106,113,80,78,84,106,106,99,108,103,109,96,100",
+                        "endOffsets": "148,256,379,478,588,676,783,897,978,1057,1142,1249,1356,1456,1565,1669,1779,1876,3139"
+                    }
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                 }
             ]
         }

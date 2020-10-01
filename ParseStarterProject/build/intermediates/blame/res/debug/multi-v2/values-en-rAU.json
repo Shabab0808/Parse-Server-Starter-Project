@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/6d63fb055c53f9b8465a3aa8c01b8727/mediarouter-v7-23.0.0/res/values-en-rAU/values-en-rAU.xml",
+=======
+            "outputFile": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/2e41f1b731ddd54821270daed78d32da/res/values-en-rAU/values-en-rAU.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -21,6 +28,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/d40e04006fdd287e810cb649309e103a/play-services-wallet-9.4.0/res/values-en-rAU/values.xml",
                     "from": {
                         "startLines": "4",
@@ -39,6 +47,9 @@
                 },
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/942b299217cdf380da8745c6c08d1a37/appcompat-v7-23.4.0/res/values-en-rAU/values-en-rAU.xml",
+=======
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/8322dc4bee9e7c73f4e8d8d0d974f38f/res/values-en-rAU/values-en-rAU.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -53,6 +64,26 @@
                         "endColumns": "103,107,122,99,107,83,99,114,76,75,81,102,103,98,104,102,103,118,99,100",
                         "endOffsets": "154,262,385,485,593,677,777,892,969,1045,1127,1230,1334,1433,1538,1641,1745,1864,1964,3205"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/4cfdda065f8543be3580be32d723bc8b/res/values-en-rAU/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "292",
+                        "endColumns": "103",
+                        "endOffsets": "391"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3210",
+                        "endColumns": "103",
+                        "endOffsets": "3309"
+                    }
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                 }
             ]
         }

@@ -2,7 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
+<<<<<<< HEAD
     buildToolsVersion '22.0.1'
+=======
+    buildToolsVersion '26.0.2'
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
 
     defaultConfig {
         applicationId "com.parse.starter"
@@ -11,7 +15,10 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
     }
     dexOptions {
         javaMaxHeapSize "4g"
@@ -22,10 +29,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< HEAD
     compileOptions {
         sourceCompatibility = 1.8
         targetCompatibility = 1.8
     }
+=======
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
 }
 
 dependencies {
@@ -34,4 +44,8 @@ dependencies {
     implementation 'com.parse:parse-android:1.13.0'
     implementation 'com.google.android.gms:play-services:9.4.0'
     implementation 'com.android.support:multidex:1.0.0'
+<<<<<<< HEAD
+=======
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
 }

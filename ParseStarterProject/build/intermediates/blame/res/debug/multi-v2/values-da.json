@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/home/shabab/AndroidStudioProjects/parseproject/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
@@ -22,6 +23,46 @@
                 },
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/c19f34e2583efb77bd30068106edd8be/play-services-places-9.4.0/res/values-da/values.xml",
+=======
+            "outputFile": "/home/shabab/AndroidStudioProjects/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/e2e9cf8ac15df9da7164d7c2f627e474/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "333,471,625",
+                        "endColumns": "137,153,93",
+                        "endOffsets": "466,620,714"
+                    },
+                    "to": {
+                        "startLines": "32,33,34",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3092,3230,3384",
+                        "endColumns": "137,153,93",
+                        "endOffsets": "3225,3379,3473"
+                    }
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/48e0c2ddb3322edb9b918fcab5506837/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,437,629,758,886,1099,1312,1439,1573,1821,1946,2054,2247,2376,2580,2713,2921,3017,3109",
+                        "endColumns": "107,191,128,127,212,212,126,133,247,124,107,192,128,203,132,207,95,91,106",
+                        "endOffsets": "432,624,753,881,1094,1307,1434,1568,1816,1941,2049,2242,2371,2575,2708,2916,3012,3104,3211"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58,59,60,61,62,64,65,66,67,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5513,5621,5813,5942,6070,6283,6496,6623,7003,7251,7376,7484,7677,7806,8010,8143,8351,8447,8539",
+                        "endColumns": "107,191,128,127,212,212,126,133,247,124,107,192,128,203,132,207,95,91,106",
+                        "endOffsets": "5616,5808,5937,6065,6278,6491,6618,6752,7246,7371,7479,7672,7801,8005,8138,8346,8442,8534,8641"
+                    }
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/2807047d84d5e57661ed6b6001beab92/res/values-da/values.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",
@@ -38,6 +79,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/d40e04006fdd287e810cb649309e103a/play-services-wallet-9.4.0/res/values-da/values.xml",
                     "from": {
                         "startLines": "4",
@@ -90,6 +132,9 @@
                 },
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/res/values-da/values.xml",
+=======
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/f3073dc2aea8d7c4b11d53b60d124d21/res/values-da/values.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -106,6 +151,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/2efcc6917ec21b4946fca4d4af7e05a5/play-services-base-9.4.0/res/values-da/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
@@ -124,6 +170,26 @@
                 },
                 {
                     "source": "/home/shabab/.gradle/caches/transforms-2/files-2.1/34d08cfae750c7a0b3b7db8624429441/play-services-cast-framework-9.4.0/res/values-da/values.xml",
+=======
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/4cfdda065f8543be3580be32d723bc8b/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "102",
+                        "endOffsets": "386"
+                    },
+                    "to": {
+                        "startLines": "89",
+                        "startColumns": "4",
+                        "startOffsets": "10140",
+                        "endColumns": "102",
+                        "endOffsets": "10238"
+                    }
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/0a6856197f811dd96dbab28b505b85a0/res/values-da/values.xml",
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -138,6 +204,43 @@
                         "endColumns": "95,91,124,80,111,100,80,95,95,107,81,81,74,82,97,97,98,95,97,72,95,94,100,144,139,140,135,95,90,107,83",
                         "endOffsets": "2113,2205,2330,2411,2523,2624,2705,2801,2897,3005,3087,3555,3630,3713,3811,3909,4008,4104,4202,4275,4371,4466,4567,4712,4852,4993,5129,5225,5316,5424,5508"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/8322dc4bee9e7c73f4e8d8d0d974f38f/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,488,600,683,783,896,973,1050,1129,1238,1346,1442,1556,1658,1759,1875,1972",
+                        "endColumns": "102,107,122,98,111,82,99,112,76,76,78,108,107,95,113,101,100,115,96,100",
+                        "endOffsets": "153,261,384,483,595,678,778,891,968,1045,1124,1233,1341,1437,1551,1653,1754,1870,1967,2068"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,88",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,538,650,733,833,946,1023,1100,1179,1288,1396,1492,1606,1708,1809,1925,10039",
+                        "endColumns": "102,107,122,98,111,82,99,112,76,76,78,108,107,95,113,101,100,115,96,100",
+                        "endOffsets": "203,311,434,533,645,728,828,941,1018,1095,1174,1283,1391,1487,1601,1703,1804,1920,2017,10135"
+                    }
+                },
+                {
+                    "source": "/home/shabab/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/2e41f1b731ddd54821270daed78d32da/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,383,497,614,728,868,971,1067,1189,1296,1382",
+                        "endColumns": "104,113,116,113,139,102,95,121,106,85,93",
+                        "endOffsets": "378,492,609,723,863,966,1062,1184,1291,1377,1471"
+                    },
+                    "to": {
+                        "startLines": "75,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8646,8751,8865,8982,9096,9236,9339,9435,9557,9664,9750",
+                        "endColumns": "104,113,116,113,139,102,95,121,106,85,93",
+                        "endOffsets": "8746,8860,8977,9091,9231,9334,9430,9552,9659,9745,9839"
+                    }
+>>>>>>> 8a6c959c551656f4d730a5028d5f8cd0f9c20b2a
                 }
             ]
         }
